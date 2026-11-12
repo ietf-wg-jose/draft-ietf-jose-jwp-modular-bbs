@@ -5,8 +5,8 @@
 JOSE                                                          C. Bormann
 Internet-Draft                                               SPRIND GmbH
 Intended status: Standards Track                               B. Zundel
-Expires: 6 May 2027                                               Yubico
-                                                         2 November 2026
+Expires: 16 May 2027                                              Yubico
+                                                        12 November 2026
 
 
             BBS and Modular Sub-proofs with JSON Web Proofs
@@ -35,7 +35,7 @@ Discussion Venues
    which is archived at https://mailarchive.ietf.org/arch/browse/jose/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/c2bo/draft-bormann-jwp-modular-bbs.
+   https://github.com/ietf-wg-jose/draft-ietf-jose-jwp-modular-bbs.
 
 Status of This Memo
 
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 May 2027.
+   This Internet-Draft will expire on 16 May 2027.
 
 Copyright Notice
 
@@ -1008,9 +1008,9 @@ Table of Contents
    [I-D.ietf-oauth-sd-jwt-vc]
               Terbu, O., Fett, D., and B. Campbell, "SD-JWT-based
               Verifiable Digital Credentials (SD-JWT VC)", Work in
-              Progress, Internet-Draft, draft-ietf-oauth-sd-jwt-vc-23,
-              31 October 2026, <https://datatracker.ietf.org/doc/html/
-              draft-ietf-oauth-sd-jwt-vc-23>.
+              Progress, Internet-Draft, draft-ietf-oauth-sd-jwt-vc-26, 6
+              November 2026, <https://datatracker.ietf.org/doc/html/
+              draft-ietf-oauth-sd-jwt-vc-26>.
 
    [I-D.irtf-cfrg-bbs-blind-signatures]
               Kalos, V. and G. M. Bernstein, "Blind BBS Signatures",
